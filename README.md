@@ -1,2 +1,2 @@
 # dkRivet
-Attaches a locator between two edges 
+Python script to attach a locator between two edges 
